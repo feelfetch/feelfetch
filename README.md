@@ -3,10 +3,11 @@
 [feelfetch.xyz](https://feelfetch.xyz)
 
 ## STACK
-- Vue/Nuxt, React/Next
-- Headless, Jamstack
-- Shopify, Medusa
-— Vercel, Netlify
+- Vue - Nuxt
+- React - Next
+- Headless - JAM
+- Shopify - Medusa
+- Vercel - Netlify
 
 ## MAIL
 
