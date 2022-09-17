@@ -5,7 +5,8 @@
 ## STACK
 - Vue/Nuxt, React/Next
 - Headless, Jamstack
-- Shopify, Vercel
+- Shopify, Medusa
+— Vercel, Netlify
 
 ## MAIL
 
